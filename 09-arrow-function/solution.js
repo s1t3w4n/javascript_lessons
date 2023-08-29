@@ -13,5 +13,5 @@
 
 const arrowFunc = () => {return 'Привет, мир!'}
 console.log(arrowFunc())
-const arrowFuncInline = s => 'Привет, вседенная!'
+const arrowFuncInline = () => 'Привет, вседенная!'
 console.log(arrowFuncInline())
